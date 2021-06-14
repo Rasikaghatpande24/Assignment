@@ -1,0 +1,120 @@
+
+
+.header{
+    background-color: rgb(236, 75, 75);
+    height: 50px;
+    border-bottom: 5px solid rgba(95, 7, 7,0.5 );
+}
+
+.header-logo{
+    background-color: rgb(243, 242, 240);
+    color: rgb(236, 75, 75);
+    width: 43px;
+    height: 43px;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 37px;
+    font-weight: 600;
+    margin-left: 1%;
+display: inline-block;
+}
+
+.nav-bar{
+    float: right;
+    margin-top: 10px;
+}
+
+.login{
+    color: white;
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 20px;
+    text-align: left;
+    display: inline-block;
+    margin-right: 12px;
+    border: solid 1px white;
+    border-radius: 3px;
+    padding: 3px;
+}
+
+.create-ac{
+    color: white;
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 20px;
+    text-align: left;
+    display: inline-block;
+    margin-right: 25px;
+    border: solid 1px white;
+    border-radius: 3px;
+    padding: 3px;
+}
+
+.heading{
+    color: rgb(16, 5, 56);
+}
+
+.left-div{
+    display: inline-block;
+    box-shadow: 3px grey;
+    border: solid 3px black;
+    width: 20%;
+    height: auto;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    text-align: left;
+    height: 700px;
+    background-color: rgb(253, 245, 245);
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.right-div{
+    display: inline-block;
+    width: 68%;
+}
+
+.icon-1{
+    display: inline-block;
+    box-shadow: 3px 5px 2px 2px  grey;
+    width:800px;
+    height: 300px;
+    margin-left: 60px;
+    margin-bottom: 130px;
+    background-color: rgb(253, 245, 245);
+    padding-left: 20px;
+}
+
+.img-1{
+    display: inline-block;
+    width: 27%;
+}
+
+.cont-1{
+    display: inline-block;
+    width: 70%;
+}
+
+.icon-footer-1{
+    display: inline-block;
+    width: 27%;
+}
+
+.icon-footer-2{
+    display: inline-block;
+    width: 68%;
+}
+
+.icon-2{
+    display: inline-block;
+    box-shadow: 3px 5px 2px 2px  grey;
+    width:800px;
+    height: 300px;
+    margin-left: 60px;
+    margin-bottom: 60px;
+    background-color: rgb(253, 245, 245);
+    padding-left: 20px;
+}
+
+
+
